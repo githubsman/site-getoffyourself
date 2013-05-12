@@ -1,0 +1,1052 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"trivial"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "your_choice.htm",
+			"settings":
+			{
+				"buffer_size": 6497,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.htm",
+			"settings":
+			{
+				"buffer_size": 7771,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 805,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/SublimeTODO/README.markdown",
+			"settings":
+			{
+				"buffer_size": 3959,
+				"line_ending": "Unix",
+				"read_only": true
+			}
+		},
+		{
+			"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Toggle Read-Only/README.md",
+			"settings":
+			{
+				"buffer_size": 883,
+				"line_ending": "Unix",
+				"read_only": true
+			}
+		},
+		{
+			"file": "/C/Users/Scott/Desktop/ST2 notes.md",
+			"settings":
+			{
+				"buffer_size": 6243,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/SMRF/index.html",
+			"settings":
+			{
+				"buffer_size": 5094,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/PlainTasks/Readme.md",
+			"settings":
+			{
+				"buffer_size": 4374,
+				"line_ending": "Unix",
+				"read_only": true
+			}
+		},
+		{
+			"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Markdown Preview/sample.md",
+			"settings":
+			{
+				"buffer_size": 3601,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Hayaku - tools for writing CSS faster/README.md",
+			"settings":
+			{
+				"buffer_size": 18604,
+				"line_ending": "Unix",
+				"read_only": true
+			}
+		},
+		{
+			"file": "stylesheets/layout.css",
+			"settings":
+			{
+				"buffer_size": 6603,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/layout.js",
+			"settings":
+			{
+				"buffer_size": 3737,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"readm",
+				"ReadmePlease"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"pai",
+				"Package Control: Install Package"
+			],
+			[
+				"pare",
+				"Package Control: Remove Package"
+			],
+			[
+				"readon",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"read m",
+				"ReadmePlease"
+			],
+			[
+				"readme",
+				"ReadmePlease"
+			],
+			[
+				"parem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pacre",
+				"Package Control: Remove Package"
+			],
+			[
+				"packi",
+				"Package Control: Install Package"
+			],
+			[
+				"mpb",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"ai",
+				"Package Control: Install Package"
+			],
+			[
+				"paci",
+				"Package Control: Install Package"
+			],
+			[
+				"inspack",
+				"Package Control: Install Package"
+			],
+			[
+				"mapb",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"maprb",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"maprebr",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"markdochea",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"markp",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"pacin",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: tiddler"
+			],
+			[
+				"conin",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ftpc",
+				"FTPSync: Check current file"
+			],
+			[
+				"ftpu",
+				"FTPSync: Upload current file"
+			],
+			[
+				"plu",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"togs",
+				"View: Toggle Side Bar"
+			],
+			[
+				"toggsi",
+				"View: Toggle Side Bar"
+			],
+			[
+				"jque",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"ft",
+				"FTPSync: Setup FTPSync in this folder"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"t",
+				"Tidy HTML"
+			],
+			[
+				"ti",
+				"Tidy HTML"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"i",
+				"Indent.txt: Parse"
+			],
+			[
+				"tidy",
+				"Tidy CSS"
+			],
+			[
+				"tid",
+				"Tidy CSS"
+			],
+			[
+				"en",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"Snippet: sli",
+				"Snippet: slideToggle"
+			]
+		],
+		"width": 496.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/PlainTasks/TODO.todo",
+		"/C/wamp/www/getoffyourself/important.htm",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/CSS.sublime-settings",
+		"/C/wamp/www/getoffyourself/stylesheets/layout.css",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Theme - Soda/README.md",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/ReadmePlease/README.md",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Alignment/readme.creole",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Creole/README.creole",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Markdown Preview/README.md",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/MarkdownEditing/README.md",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Scott/Desktop/ST2 notes2.md",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/PlainTasks/messages/Tutorial.todo",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/wamp/www/getoffyourself/ftpsync.settings",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Markdown/Symbol List - Heading.tmPreferences",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Markdown Preview/sample.md",
+		"/C/Users/Scott/Desktop/ST2 notes.txt",
+		"/C/wamp/www/getoffyourself/fonts/komika/Apostrophic Labs License.txt",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/TiddlyWiki/table.sublime-snippet",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Emmet/README.md",
+		"/C/wamp/www/getoffyourself/images/dog-enter-5.png",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/FTPSync.sublime-settings",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/FTPSync/FTPSync.sublime-settings",
+		"/C/wamp/www/getoffyourself/images/dog-drip-1.png",
+		"/F/wiki/computer_wiki.htm",
+		"/C/Users/Scott/Documents/Mundane/Misc/Computer/CodeWiki/ST2Wiki.wiki",
+		"/C/Users/Scott/Documents/Mundane/Misc/Computer/CodeWiki/code.wiki",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Wiki/readme.md",
+		"/C/wamp/www/getoffyourself/index.htm",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Browser Refresh/README.md",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/wamp/www/getoffyourself/stylesheets/indent_demo.htm",
+		"/C/wamp/www/getoffyourself/what_you_think.htm",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/FTPSync/README.md",
+		"/C/wamp/www/getoffyourself/about.htm",
+		"/C/wamp/www/getoffyourself/others_unhelpful.htm",
+		"/C/wamp/www/getoffyourself/images/dog-touch-icon.png",
+		"/C/wamp/www/getoffyourself/images/favicon.ico",
+		"/C/wamp/www/getoffyourself/Zlayout.js",
+		"/C/wamp/www/getoffyourself/scripts/layout.js",
+		"/C/wamp/www/getoffyourself/GetOffYourself.sublime-project",
+		"/C/wamp/www/getoffyourself/ftp-sync.settings",
+		"/C/wamp/www/getoffyourself/layout.js",
+		"/C/Users/Scott/Downloads/BroadwayBank CSV processing",
+		"/C/Users/Scott/Downloads/AccountHistory.csv",
+		"/C/Users/Scott/Downloads/Replace histpory",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/CSV/README.md",
+		"/F/p_app/Documents/USB_Mundane/ComputerGeek/www/getoffyourself/index.htm",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/CSSTidy/README.md",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/CSSTidy.sublime-settings",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/CSSTidy/CSSTidy.sublime-settings",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/HtmlTidy/README.md",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Hex to HSL Color Converter/readme.md"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"life",
+			"white",
+			"\\t",
+			" > \\n",
+			"\"command\": ",
+			": \"\\n\"",
+			"\\n",
+			"> \\t",
+			"\\t",
+			"command > ",
+			", \"args\": ",
+			"\"],",
+			"[\"",
+			"{ \"keys\": ",
+			" },",
+			"\": \"",
+			"background-color",
+			"background",
+			"    #important, #important_content, #important_caller  {\n        background-color:   hsla(44, 90%, 78%, 1.0);\n    }",
+			" -\\s(.*):\\s(.*)",
+			"cntl",
+			"Cntl-",
+			"Ctrl-",
+			"p",
+			"P",
+			"`: ",
+			"-\\s(.*):\\s(.*)",
+			"\\(.*\\)",
+			"-\\s(.*):\\s`(.*)`",
+			"-\\s(.*\\):\\s`(.*)`",
+			"-\\s.(*\\):\\s`(.*)`",
+			"http",
+			"\\:\\shttp.*$",
+			"Ctrl",
+			"\\s(ctrl\\+[A-Z])\\s",
+			"\\s(ctrl\\+K,\\sctrl\\+[A-Z])\\s",
+			"Ctrl\\+[A-Z]",
+			"Cntl-.*\\s",
+			"### ",
+			"## ",
+			"^([A-Z].*)",
+			"1",
+			"11em",
+			",(\\d?\\d?\\d?\\d?\\.\\d\\d),$",
+			",,(\\d?\\d?\\d?\\d?\\.\\d\\d)$",
+			",,(\\d?\\d?\\d?\\d?\\.\\d\\d),$",
+			",,(\\d?\\d?\\d?\\.\\d\\d),$",
+			",\\\"\\\"$",
+			",,(\\d?\\d?\\d?\\.\\d\\d)$",
+			",(\\d?\\d?\\d?\\.\\d\\d),$",
+			",,(\\d?\\d?\\d?\\.\\d\\d)$",
+			",,\\d?\\d?\\d?\\.\\d\\d$",
+			"\"CHECK\",",
+			"SAN MARC",
+			"\\s\\d\\d\\d-\\d\\d\\d-\\d\\d\\d\\d",
+			"PAYPAL           INST XFER",
+			"PAYPALPAY PAL",
+			"PAYPAL           INST XFER ",
+			"GLAIC            INSPAYMENT V521564",
+			"INSPAYMENT ",
+			" PYMT",
+			" CHECK PYMT",
+			" PYMT",
+			"EFT\\sWTH\\sRF#\\d*\\s\\d\\d/\\d\\d\\s",
+			"EFT\\sWTHsRF#\\d*\\s\\d\\d\\/\\d\\d\\s",
+			"EFT\\sWTHsRF#\\d*\\s\\d\\d/\\d\\d\\s",
+			" CHECK PMTS",
+			" BILL PYMT",
+			" CHECKPAYMT",
+			"CHECKPAYMT",
+			"SAN ANTONIO,TX",
+			"AUSTIN,TX",
+			"NEW BRAUNFELS,TX",
+			"SAN MARCOS, TX",
+			"SAN MARCOS,TX",
+			"*",
+			"EFT\\sWTHsRF#\\d*\\s\\d\\d\\/\\d\\d\\s",
+			"EFT\\sWTHsRF#\\d*\\s\\d\\d/\\d\\d\\s",
+			"(\\d*/\\d*/\\d\\d\\d\\d,)(,\\\".*)\\sCARD#(\\d\\d\\d\\d)\\\"",
+			"(\\d*/\\d*/\\d\\d\\d\\d,),\\\"(.*)\\sCARD#(7929)\\\"",
+			"(2/19/2013,)(,\"USPS 4880750466 SAN MARCOS,TX) CARD#(7929)\\\"",
+			"\\sSERIAL\\sNUMBER\\:\\s\\d\\d\\d\\d",
+			"SERIAL NUMBER",
+			"\\\"\\d\\d/\\d\\d\\s",
+			"\\s\\w*0000*\\d*",
+			"\\s\\w*000*\\d*",
+			"\\s\\w*00*\\d*",
+			"\\s\\w*000*\\d*",
+			"\\s\\w*0000*\\d*",
+			"\\s\\w*00000*\\d*",
+			"\\s\\w*0000*\\d*",
+			"\\s\\w*000000*\\d*",
+			"\\s\\w000000*\\d*",
+			"EFT\\sPOS\\sRF#\\d*\\s(\\d\\d/\\d\\d\\s.*\\sCARD#\\d\\d\\d\\d)",
+			"EFT\\sVISA\\sRF#\\d*\\s(\\d\\d/\\d\\d\\s.*\\sCARD#\\d\\d\\d\\d)",
+			",Posted",
+			"^\\\"\\d*\\\",",
+			"EFT\\sPOS\\sRF#\\d*\\s(\\d\\d/\\d\\d\\s.*\\sCARD#\\d\\d\\d\\d)",
+			"EFT\\sPOS\\sRF#",
+			"EFT\\sPOS\\sRF#\\d*\\s(\\d\\d/\\d\\d\\s.*\\sCARD#\\d\\d\\d\\d)",
+			"EFT\\sVISA\\sRF#\\d*\\s(\\d\\d/\\d\\d\\s.*\\sCARD#\\d\\d\\d\\d)",
+			"EFT\\sVISA\\sRF#\\d*\\s(\\d\\d/\\d\\d\\s.*)\\sCARD#\\d\\d\\d\\d",
+			"EFT\\sVISA\\sRF#\\d*\\s\\d\\d/\\d\\d\\s(.*)\\sCARD#\\d\\d\\d\\d",
+			"EFT\\sVISA\\sRF#\\d*\\s\\d\\d/\\d\\d\\sFEDEX 799455559270 MEMPHIS,TN CARD#7929",
+			"EFT\\sVISA\\sRF#\\d*\\s04/06 FEDEX 799455559270 MEMPHIS,TN CARD#7929",
+			"EFT\\sVISA\\sRF#309624741152 04/06 FEDEX 799455559270 MEMPHIS,TN CARD#7929",
+			"EFT\\sVISAsRF#309624741152 04/06 FEDEX 799455559270 MEMPHIS,TN CARD#7929",
+			"\"190130458\",",
+			"dog-logo",
+			"white"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" - `\\2`    \\1",
+			"Ctrl",
+			"Ctrl+",
+			"`    ",
+			"- `\\2`: \\1",
+			"",
+			"- `\\2`:   \\1",
+			"- \\2    \\1",
+			"",
+			" `\\1` ",
+			"- \\1",
+			",\\1,\"\"",
+			",\\1,\"CREDIT\"",
+			",\"\",\\1,",
+			",",
+			",\\1,\"CREDIT\"",
+			",\\1,\"\"",
+			",,\\1,\"CREDIT\"",
+			",",
+			"SMTX",
+			"",
+			"PAY PAL",
+			"PAY PAL ",
+			"GEN LIFE",
+			"",
+			"SATX",
+			"AUTX",
+			"NBTX",
+			"SMTX",
+			"",
+			"\\1\\3\\2\"",
+			"\\1,\\3,\\2\"",
+			"\\1\"\\3\"\\2\"",
+			"\\1\\3\"\\2\"",
+			"\\1,\\3,\"\\2\"",
+			"",
+			"\"",
+			"",
+			"\\1",
+			"",
+			"\\1",
+			"",
+			"dog-touch-icon"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "your_choice.htm",
+					"settings":
+					{
+						"buffer_size": 6497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								790,
+								790
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.htm",
+					"settings":
+					{
+						"buffer_size": 7771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1147,
+								904
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 805,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 26.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/SublimeTODO/README.markdown",
+					"settings":
+					{
+						"buffer_size": 3959,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Toggle Read-Only/README.md",
+					"settings":
+					{
+						"buffer_size": 883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								631,
+								631
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "/C/Users/Scott/Desktop/ST2 notes.md",
+					"settings":
+					{
+						"buffer_size": 6243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3011,
+								3011
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/Markdown/MultiMarkdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/wamp/www/SMRF/index.html",
+					"settings":
+					{
+						"buffer_size": 5094,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1890.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/PlainTasks/Readme.md",
+					"settings":
+					{
+						"buffer_size": 4374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								252,
+								252
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 0.99,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Markdown Preview/sample.md",
+					"settings":
+					{
+						"buffer_size": 3601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								447,
+								447
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/Scott/AppData/Roaming/Sublime Text 2/Packages/Hayaku - tools for writing CSS faster/README.md",
+					"settings":
+					{
+						"buffer_size": 18604,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1369,
+								1369
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 0.99,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1628.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 10,
+					"file": "stylesheets/layout.css",
+					"settings":
+					{
+						"buffer_size": 6603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								780,
+								808
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 11,
+					"file": "scripts/layout.js",
+					"settings":
+					{
+						"buffer_size": 3737,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								282,
+								282
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.533009708738,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"lay",
+				"scripts/layout.js"
+			],
+			[
+				"layoucs",
+				"stylesheets/layout.css"
+			],
+			[
+				"st2",
+				"/C/Users/Scott/Desktop/ST2 notes.md"
+			],
+			[
+				"in",
+				"index.htm"
+			],
+			[
+				"la",
+				"stylesheets/layout.css"
+			],
+			[
+				"stylin",
+				"stylesheets/indent_demo.htm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true
+}

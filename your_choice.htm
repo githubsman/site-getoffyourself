@@ -1,0 +1,208 @@
+<div id="dragonflies" class="realm eight columns alpha">
+    <div class="inner">
+        <h3>
+            Comfort Food
+        </h3>
+        <p class="prose">
+            One morning at sunrise, I am walking on a meadow when I notice a light layer of fog. It is suspended at eye-level -- only a few feet thick, a fragile gray band. The more distant foliage is visible both above it and beneath it. In a few minutes the morning sun will whisper the fog away. I admire this phenomenon. The sense of awe increases as I realize I''m in the fog -- I can see it around me.
+        </p>
+        <p>
+            Then I notice a vast whirring <em>activity</em> in the band of gray. Dragonflies! Hundreds of dragonflies are busily exploring the layer of fog. There is a sense of revelry.
+        </p>
+        <p>
+            And then I notice grackles. Big birds, dozens of them, working quietly. Swooping through the mist. Eating Dragonflies.
+        </p>
+        <p>
+            The birds are happy.
+        </p>
+        <p>
+            The dragonflies are happy.
+        </p>
+        <p>
+            I'm happy.
+        </p>
+        <p>
+            It's a happy layer of fog.
+        </p>
+    </div>
+</div>
+
+<div id="fivechapters" class="realm eight columns omega">
+    <div class="inner">
+        <h3>
+            Autobiography in Five Short Chapters
+        </h3>
+        <div id="accordion">
+            <h5 id="fivechapters_1" class="slide-button">
+                Chapter One
+            </h5>
+            <div class="accordion-fold">
+                <p>
+                    I walk down the street.
+                </p>
+                <p>
+                    There is a deep hole in the sidewalk.
+                </p>
+                <p>
+                    I fall in.
+                </p>
+                <p>
+                    I am lost .... I am helpless.
+                </p>
+                <p>
+                    It isn't my fault.
+                </p>
+                <p>
+                    It takes forever to find a way out.
+                </p>
+            </div>
+            <h5 class="slide-button">
+                Chapter Two
+            </h5>
+            <div class="accordion-fold">
+                <p class="prose">
+                    I walk down the street.
+                </p>
+                <p class="prose">
+                    There is a deep hole in the sidewalk.
+                </p>
+                <p class="prose">
+                    I pretend that I don't see it. I fall in again.
+                </p>
+                <p class="prose">
+                    I can't believe I am in this same place. But, it isn't my fault.
+                </p>
+                <p class="prose">
+                    It still takes a long time to get out.
+                </p>
+            </div>
+            <h5 class="slide-button">
+                Chapter Three
+            </h5>
+            <div class="accordion-fold">
+                <p class="prose">
+                    I walk down the same street.
+                </p>
+                <p class="prose">
+                    There is a deep hole in the sidewalk.
+                </p>
+                <p class="prose">
+                    I see it is there. I still fall in ... it's a habit ... but, my eyes are open.
+                </p>
+                <p class="prose">
+                    I know where I am. It is my fault.
+                </p>
+                <p class="prose">
+                    I get out immediately.
+                </p>
+            </div>
+            <h5 class="slide-button">
+                Chapter Four
+            </h5>
+            <div class="accordion-fold">
+                <p class="prose">
+                    I walk down the same street.
+                </p>
+                <p class="prose">
+                    There is a deep hole in the sidewalk.
+                </p>
+                <p class="prose">
+                    I walk around it.
+                </p>
+            </div>
+            <h5 class="slide-button">
+                Chapter Five
+            </h5>
+            <div class="accordion-fold">
+                <p class="prose">
+                    I walk down another street.
+                </p>
+            </div>
+            <p class="slide-button" style="margin-bottom:0px; font-size: 0.8em;">
+                &nbsp;&nbsp;&nbsp;&nbsp; about this poem
+            </p>
+            <div class="accordion-fold">
+                <p>
+                    Written by Portia Nelson.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+  /*$("#fivechapters_1").addClass("active");*/
+  $("#accordion").find("slide-button:first").focus();
+
+  $(function() {
+    $( "#accordion" ).accordion({
+    event: "click hoverintent"
+    });
+  });
+
+  /*
+  * hoverIntent | Copyright 2011 Brian Cherne
+  * http://cherne.net/brian/resources/jquery.hoverIntent.html
+  * modified by the jQuery UI team
+  */
+  $.event.special.hoverintent = {
+    setup: function() {
+      $( this ).bind( "mouseover", jQuery.event.special.hoverintent.handler );
+    },
+    teardown: function() {
+      $( this ).unbind( "mouseover", jQuery.event.special.hoverintent.handler );
+    },
+    handler: function( event ) {
+      var currentX, currentY, timeout,
+      args = arguments,
+      target = $( event.target ),
+      previousX = event.pageX,
+      previousY = event.pageY;
+
+      function track( event ) {
+        currentX = event.pageX;
+        currentY = event.pageY;
+      };
+
+      function clear() {
+        target
+        .unbind( "mousemove", track )
+        .unbind( "mouseout", clear );
+        clearTimeout( timeout );
+      }
+
+      function handler() {
+      var prop,
+      orig = event;
+
+      if ( ( Math.abs( previousX - currentX ) +
+      Math.abs( previousY - currentY ) ) < 7 ) {
+      clear();
+
+      event = $.Event( "hoverintent" );
+      for ( prop in orig ) {
+      if ( !( prop in event ) ) {
+      event[ prop ] = orig[ prop ];
+      }
+      }
+      // Prevent accessing the original event since the new event
+      // is fired asynchronously and the old event is no longer
+      // usable (#6028)
+      delete event.originalEvent;
+
+      target.trigger( event );
+      } else {
+      previousX = currentX;
+      previousY = currentY;
+      timeout = setTimeout( handler, 100 );
+      }
+      }
+
+      timeout = setTimeout( handler, 100 );
+      target.bind({
+      mousemove: track,
+      mouseout: clear
+      });
+    }
+  };
+</script>
